@@ -3,11 +3,19 @@ This is where I will be posting the Updated UnlimApps ++ Apps as The updates com
 
 If there is an issue please leave a comment on the Reddit Post or On this GitHub repo in the "Issues" tab.
 
+***Install Without A Computer:***
+ You Can install the following ++ tweaks by just clicking on the install link and then trusting the developer profile in settings.
+ 
+ - [First Install the TuTu App By Clicking Here](http://www.tutuapp.vip/index.php?r=web/installZB&lang=en)
+ 
+ - [Click to Install IG ++](https://tinyurl.com/jkebj5v)
+
+
 Note: 
 Apps that have "Install as Duplicate" means that that IPA will be installed along side the App Store version
 Apps that have "Non Duplicate" means that they are installed instead of the App Store one. 
 
-Also know that sideloaded apps will NOT get notifications. That is why I included the IPA just compiled as Duplicate so that you can recieve notifications through the App Store one if you choose to want Notifications.
+Also know that sideloaded apps will NOT get notifications. That is why I included the IPA just compiled as Duplicate so that you can receive notifications through the App Store one if you choose to want Notifications.
 
 Facebook++ No Duplicate [Link](https://mega.nz/#!uk4WgLBC!IULcbi0Gbcza7EmuEVQr6JSlDo8lOdbvTCgUGOo7aXc)
 
