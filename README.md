@@ -17,9 +17,9 @@ Apps that have "Non Duplicate" means that they are installed instead of the App 
 
 Also know that sideloaded apps will NOT get notifications. That is why I included the IPA just compiled as Duplicate so that you can receive notifications through the App Store one if you choose to want Notifications.
 
-Facebook++ No Duplicate [Link](https://mega.nz/#!uk4WgLBC!IULcbi0Gbcza7EmuEVQr6JSlDo8lOdbvTCgUGOo7aXc)
+Facebook++ No Duplicate [Link](https://mega.nz/#!nsZ1kSzT!S6axcCpx-hT9kYDJY4B5SBOjp22yVZeFvDHR5BbhFlA)
 
-Facebook++ Duplicate [Link](https://mega.nz/#!aloQFS4S!9O6j8UmJ4MT5g55fVKgiXsrayo3BDVqsXYWY2UzpdxQ)
+Facebook++ Duplicate [Link](https://mega.nz/#!6gRh2bJZ!HlzrGqmP9GL6_svYVfUZJOx-rqzj8wu8zj_x3fAC8zM)
 
 Regarding YouTube++ with No Ads. This just removes the ads from the videos themselves. If you want to remove the ads on the bottom you have to buy the license, $2 I believe, and make an account. That account can be used across all of his ++ tweaks to remove ads. A 1 time fee of $2 to remove all ads across all of his ++ apps. All you need is the account you made which is attached to the license you bought. 
 
