@@ -11,6 +11,7 @@ Twitter++
 	- 1.2r-35 Fix crash when enable/disable regex mute of notifications page
 	- 1.2r-36 Fix regex on latest twitter
 	- 1.2r-37 Fix tweet source causing issues
+	- 1.2r-43 Removed tweet source feature since it was causing crashes
 
 
 WhatsApp++
