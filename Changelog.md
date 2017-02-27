@@ -1,6 +1,8 @@
-Changelog for UnlimApps++ Tweak IPA updates
+
+**Changelog for UnlimApps++ Tweak IPA updates**
 
 Instagram++
+
 	- 1.7r-126 You can now download carousel images
 	- 1.7r-33 Fix for download button disappearing after pressing like/unlike
 	- 1.7r-137 You can now tap and hold to zoom/view carousel posts
@@ -27,3 +29,13 @@ YouTube++
 	- 1.4r-25 Fix full screen autoplay
 
 Facebook++
+
+
+
+Spotify++
+	
+	- Fixed Cydia Impactor install .zip error.
+
+
+
+
