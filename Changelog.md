@@ -1,41 +1,40 @@
 
-**Changelog for UnlimApps++ Tweak IPA updates**
+**Instagram++**
 
-Instagram++
-
-	- 1.7r-126 You can now download carousel images
-	- 1.7r-33 Fix for download button disappearing after pressing like/unlike
-	- 1.7r-137 You can now tap and hold to zoom/view carousel posts
+3/1/17
+- Fixed the Cydia Impactor installing error
 
 
-Twitter++
+**Twitter++**
 
-	- 1.2r-35 Fix crash when enable/disable regex mute of notifications page
-	- 1.2r-36 Fix regex on latest twitter
-	- 1.2r-37 Fix tweet source causing issues
-	- 1.2r-43 Removed tweet source feature since it was causing crashes
+3/1/17
+- N/A
 
 
-WhatsApp++
+**WhatsApp++**
 
-	- 1.6r-62 Fix stealth mode stuff
-	- 1.6r-64 Fix media saving location
-
-
-YouTube++
-
-	- 1.4r-20 Fix downloading buttons not showing internationally and on iPAd
-	- 1.4r-23 Fix crash when hiding tabs and switching accounts
-	- 1.4r-25 Fix full screen autoplay
-
-Facebook++
+3/1/17
+- Updated to App Version 2.17.7
 
 
+**YouTube++**
 
-Spotify++
-	
-	- Fixed Cydia Impactor install .zip error.
+3/1/17
+ - Updated to App Version 12.07
+
+**Facebook++**
+
+3/1/17
+- N/A
+
+**Spotify++**
+
+3/1/17
+ - Fixed the larger than normal file size
 
 
+**Soundcloud++**
 
+ - Updated to App Version 5.0.1
 
+//test
