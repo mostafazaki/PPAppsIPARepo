@@ -1,8 +1,21 @@
 
 **Instagram++**
 
-3/1/17
-- Fixed the Cydia Impactor installing error
+3/2/187
+
+1.7r-150
+  - Fix Zoom to hold on non 3D touch devices
+
+1.7r-153
+  - Make ads less annoying
+
+1.7r-154
+  - Fix muted and sponsored posts blocking on minimal feed view
+
+1.7r-155
+  - Fix tap and hold to zoom for carousel in full feed view
+
+
 
 
 **Twitter++**
