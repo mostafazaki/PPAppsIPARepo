@@ -27,7 +27,8 @@
 **Twitter++**
 
 3/8/2017
-  - Updated Twitter++ to App Version 6.73.1
+  - Updated Twitter++ to App Version 6.73.2
+    - Fixed a App related crash, not a tweak related one, on startup.
 
 
 **WhatsApp++**
