@@ -26,8 +26,8 @@
 
 **Twitter++**
 
-3/1/17
-- N/A
+3/8/2017
+  - Updated Twitter++ to App Version 6.73.1
 
 
 **WhatsApp++**
