@@ -2,10 +2,10 @@
 This is where I will be posting the Updated UnlimApps ++ Apps as The updates come out.
 
 **ANY ISSUES??**
-       Make a Issue report on this Github Repo or leave a comment on [This Reddit Post] (https://goo.gl/GdFV7Q) and make sure to tell me the following:
+       Make a Issue report on this Github Repo or leave a comment on [This Reddit Post](https://goo.gl/GdFV7Q)
 
-        1. What IPA is having the issue and what the issue is.
-        2. If it is a Cydia Impactor error message please include the error message name and a screenshot if possible.
+**Instagram++ Issues Please Read**
+  Post a issue on this repo [Link Here](https://github.com/eni9889/IG-PP-Issues) and PLEASE follow the directions in the Readme on that repo to make it easier for me and Unlim to figure out what Firmware you are on, etc which will make the issue solving easier. Also please tag the report with [Jailbreak] or [Sideload]
 
 
 ***Install Without A Computer:***
