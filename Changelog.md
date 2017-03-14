@@ -49,15 +49,9 @@
 
 **Spotify++**
 
-3/7/17
-  - Updated Spotify++ to App Version 7.8.0.
-
-3/1/17
- - Fixed the larger than normal file size.
+ - Updated Spotify++ to App Version 7.9.0
 
 
 **Soundcloud++**
 
  - Updated to App Version 5.0.1
-
-//test
