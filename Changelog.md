@@ -1,9 +1,9 @@
 
 **Instagram++**
 
-3/7/17
+3/13/17
 
- - Updated Instagram to App Version 10.11.
+   - Updated Instagram++ to App Version 10.12
 
 
 3/2/187
