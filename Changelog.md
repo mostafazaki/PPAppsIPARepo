@@ -39,8 +39,8 @@
 
 **YouTube++**
 
-3/1/17
- - Updated to App Version 12.07.
+3/15/17
+ - Updated to App Version 12.09.
 
 **Facebook++**
 
