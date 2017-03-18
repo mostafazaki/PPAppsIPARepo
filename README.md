@@ -8,14 +8,6 @@ This is where I will be posting the Updated UnlimApps ++ Apps as The updates com
   Post a issue on this repo [Link Here](https://github.com/eni9889/IG-PP-Issues) and PLEASE follow the directions in the Readme on that repo to make it easier for me and Unlim to figure out what Firmware you are on, etc which will make the issue solving easier. Also please tag the report with [Jailbreak] or [Sideload]
 
 
-***Install Without A Computer:***
- You Can install the following ++ tweaks by just clicking on the install link and then trusting the developer profile in settings.
-
- - [First Install the TuTu App By Clicking Here](http://www.tutuapp.vip/index.php?r=web/installZB&lang=en)
-
- - [Click to Install IG ++](https://tinyurl.com/jkebj5v)
-
-
 Note:
 Apps that have "Install as Duplicate" means that that IPA will be installed along side the App Store version
 Apps that have "Non Duplicate" means that they are installed instead of the App Store one.
