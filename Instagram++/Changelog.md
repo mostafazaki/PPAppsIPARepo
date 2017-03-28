@@ -1,13 +1,9 @@
-As Of 3/22/2017
+As Of 3/28/2017
 
- - 1.7r-171 Fix spoof settings
+ - 1.7r-180 Fixes Last video in a story does not dismiss when tapped
 
- - 1.7r-173 Add option to completely disable stories features
+ - 1.7r-182 Fixes viewing friend's stories and the app crashing
 
- - 1.7r-174 Added ability to hide follow suggestions and badge
+ - 1.7r-183 Fixes some Instagram 10.14 related issues
 
- - 1.7r-175 Added ability to see full followers number
-
- - 1.7r-176 Fixed Disabling stories feature causing DMs not to show
-
- - 1.7r-178 Fixed not being able to save Images and stories on Sideload
+ - 1.7r-184 Fixes Repost and Regram crashing on Instagram version 10.14
