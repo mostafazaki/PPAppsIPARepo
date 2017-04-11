@@ -1,3 +1,7 @@
+4/10/2017
+
+ - Updated Instagram++ to App Version 10.16
+
 As Of 3/28/2017
 
  - 1.7r-180 Fixes Last video in a story does not dismiss when tapped
