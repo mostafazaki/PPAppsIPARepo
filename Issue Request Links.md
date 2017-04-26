@@ -10,6 +10,9 @@ PLEASE FOLLOW THE DIRECTIONS IN THE README AND FORMAT THE POST CORRECTLY
 
 [Instagram++ Feature or Issue Repo Link](https://github.com/eni9889/IG-PP-Issues)
 
+**Snapchat++**
+
+[Snapchat++](https://github.com/eni9889/SC-PP-ISSUES)
 
 **Twitter++ Issues**
 
