@@ -1,4 +1,4 @@
-As Of 4/1/2017
+4/29/2017
 
- - 1.2r-46 Fix for crashes on Twitter 6.74.2
- - 1.2r-47 Fix regex mute (Latest)
+ - 1.2r-47 Fix regex mute
+ - 1.2r-51 Fix tweet saving on latest Twitter 6.76
