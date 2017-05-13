@@ -4,4 +4,7 @@
 
 **Changelog**
 
- - 1.6r-103 Fixed preview controller buttons on latest Snapchat
+ - 1.6r-104
+      - Fixed Controls not showing on stories without a reply later
+      - Fixed Stories muting.
+      - Fixed read snapsnot being marked read on chat controller.
