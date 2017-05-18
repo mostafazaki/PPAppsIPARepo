@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>by.transline.wapp</string>
+				<string>com.youtube.ios.youtube</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
