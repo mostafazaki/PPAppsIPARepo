@@ -1,4 +1,4 @@
-***Direct Install Links: (NO PIRATED APPS EVER) ***
+***Direct Install Links: (NO PIRATED APPS EVER)***
  - [Install Snapchat With Push Notifications](https://tinyurl.com/lulecm7)
  - [Install Instagram ++ With Push Notifications](https://tinyurl.com/instagramplusplus)
  - [Install WhatsApp ++ With Push Notifications](https://tinyurl.com/ks9sn6d)
