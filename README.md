@@ -1,5 +1,7 @@
-#( PPAppsIPARepo
-This is where I will be posting the Updated UnlimApps ++ Apps as The updates come out.
+***Direct Install Links:***
+ - [Snapchat With Push Notifications](https://tinyurl.com/lulecm7)
+
+
 
 **ANY ISSUES??**
        Make a Issue report on this Github Repo or leave a comment on [This Reddit Post](https://goo.gl/GdFV7Q)
