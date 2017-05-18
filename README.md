@@ -3,6 +3,7 @@
  - [Install Instagram ++ With Push Notifications](https://tinyurl.com/instagramplusplus)
  - [Install WhatsApp ++ With Push Notifications](https://tinyurl.com/ks9sn6d)
  - [Install Spotify ++ With Push Notifications](https://tinyurl.com/ld3wdcy)
+ - [Install YouTube ++ NO ADS With Push Notifications](https://tinyurl.com/youtubeppnoads)
 
 
 
