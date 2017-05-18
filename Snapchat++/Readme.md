@@ -1,1 +1,1 @@
-[Donwload](https://tinyurl.com/lulecm7)
+[Donwload Original With Push](https://tinyurl.com/lulecm7)
