@@ -1,5 +1,6 @@
-***Direct Install Links:***
- - [Snapchat With Push Notifications](https://tinyurl.com/lulecm7)
+***Direct Install Links: (NO PIRATED APPS EVER) ***
+ - [Install Snapchat With Push Notifications](https://tinyurl.com/lulecm7)
+ - [Install Instagram ++ With Push Notifications](https://tinyurl.com/instagramplusplus)
 
 
 
