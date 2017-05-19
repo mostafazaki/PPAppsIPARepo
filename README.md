@@ -9,7 +9,7 @@
  - [Install WhatsApp Watusi With Push Notifications](https://ipasigner.io/install/com.f0u4d.watusi)
  - [Install PPSSPP](https://ipasigner.io/install/org.ppsspp)
  - [Install EveryCord](https://ipasigner.io/install/net.everycord)
- - [Install iNDS](https://ipasigner.io/install/cobb.inds)
+ - [Install iNDS](https://ipasigner.io/install/cobb.nds)
 
 
 **ANY ISSUES??**
