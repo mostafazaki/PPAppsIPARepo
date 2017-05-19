@@ -10,6 +10,7 @@
  - [Install PPSSPP](https://ipasigner.io/install/org.ppsspp)
  - [Install EveryCord](https://ipasigner.io/install/net.everycord)
  - [Install iNDS](https://ipasigner.io/install/cobb.nds)
+ - [Install NewGamePad](https://ipasigner.io/install/newgamepad)
 
 
 **ANY ISSUES??**
