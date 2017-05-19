@@ -1,6 +1,6 @@
 ***Direct Install Links: (NO PIRATED APPS EVER)***
  - [Install Snapchat ++ With Push Notifications](https://ipasigner.io/install/com.toyopagroup.picaboo)
- - [Install Instagram ++ With Push Notifications](hhttps://ipasigner.io/install/com.burbn.instagram)
+ - [Install Instagram ++ With Push Notifications](https://ipasigner.io/install/com.burbn.instagram)
  - [Install WhatsApp ++ With Push Notifications](https://ipasigner.io/install/net.whatsapp.WhatsApp)
  - [Install Spotify ++ With Push Notifications](https://ipasigner.io/install/com.spotify.client)
  - [Install YouTube ++ NO ADS With Push Notifications](https://ipasigner.io/install/com.google.ios.youtube)
