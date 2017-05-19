@@ -1,4 +1,5 @@
 ***Direct Install Links: (NO PIRATED APPS EVER) by @ipasigner***
+
  - [Install Snapchat ++ With Push Notifications](https://ipasigner.io/install/com.toyopagroup.picaboo)
  - [Install Spotify ++ With Push Notifications](https://ipasigner.io/install/com.spotify.client)
  - [Install Pandora ++ With Push Notifications](https://ipasigner.io/install/com.pandora)
@@ -11,6 +12,8 @@
  - [Install YouTube ++ NO ADS With Push Notifications](https://ipasigner.io/install/com.google.ios.youtube)
  - [Install iNDS](https://ipasigner.io/install/cobb.nds)
  - [Install Provenance](https://ipasigner.io/install/provenance)
+ 
+ More apps coming soon. Keep checking https://ipasigner.io
 
 **ANY ISSUES??**
        Make a Issue report on this Github Repo or leave a comment on [This Reddit Post](https://goo.gl/GdFV7Q)
