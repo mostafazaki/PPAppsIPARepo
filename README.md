@@ -3,6 +3,7 @@
  - [Install Instagram ++ With Push Notifications](https://ipasigner.io/install/com.burbn.instagram)
  - [Install WhatsApp ++ With Push Notifications](https://ipasigner.io/install/net.whatsapp.WhatsApp)
  - [Install Spotify ++ With Push Notifications](https://ipasigner.io/install/com.spotify.client)
+ - [Install Pandora ++ With Push Notifications](https://ipasigner.io/install/com.pandora)
  - [Install YouTube ++ NO ADS With Push Notifications](https://ipasigner.io/install/com.google.ios.youtube)
 
 
