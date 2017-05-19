@@ -7,6 +7,7 @@
  - [Install YouTube ++ NO ADS With Push Notifications](https://ipasigner.io/install/com.google.ios.youtube)
  - [Install GBA4iOS](https://ipasigner.io/install/com.rileytestut.enterprise.GBA4iOS)
  - [Install WhatsApp Watusi With Push Notifications](https://ipasigner.io/install/com.f0u4d.watusi)
+ - [Install PPSSPP](https://ipasigner.io/install/org.ppsspp)
 
 
 **ANY ISSUES??**
