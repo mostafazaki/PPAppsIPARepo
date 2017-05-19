@@ -1,5 +1,19 @@
-#( PPAppsIPARepo
-This is where I will be posting the Updated UnlimApps ++ Apps as The updates come out.
+***Direct Install Links: (NO PIRATED APPS EVER) by @ipasigner***
+
+ - [Install Snapchat ++ With Push Notifications](https://ipasigner.io/install/com.toyopagroup.picaboo)
+ - [Install Spotify ++ With Push Notifications](https://ipasigner.io/install/com.spotify.client)
+ - [Install Pandora ++ With Push Notifications](https://ipasigner.io/install/com.pandora)
+ - [Install GBA4iOS](https://ipasigner.io/install/com.rileytestut.enterprise.GBA4iOS)
+ - [Install WhatsApp ++ With Push Notifications](https://ipasigner.io/install/net.whatsapp.WhatsApp)
+ - [Install Instagram ++ With Push Notifications](https://ipasigner.io/install/com.burbn.instagram)
+ - [Install WhatsApp Watusi With Push Notifications](https://ipasigner.io/install/com.f0u4d.watusi)
+ - [Install PPSSPP](https://ipasigner.io/install/org.ppsspp)
+ - [Install EveryCord](https://ipasigner.io/install/net.everycord)
+ - [Install YouTube ++ NO ADS With Push Notifications](https://ipasigner.io/install/com.google.ios.youtube)
+ - [Install iNDS](https://ipasigner.io/install/cobb.nds)
+ - [Install Provenance](https://ipasigner.io/install/provenance)
+ 
+ More apps coming soon. Keep checking https://ipasigner.io submit requests here in issues with links to IPAs
 
 **ANY ISSUES??**
        Make a Issue report on this Github Repo or leave a comment on [This Reddit Post](https://goo.gl/GdFV7Q)
