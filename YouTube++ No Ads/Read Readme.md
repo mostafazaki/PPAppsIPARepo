@@ -1,1 +1,0 @@
-**Please read the Readme.md in the root (very beginning of the repo) for a link on how to get this ipa**
