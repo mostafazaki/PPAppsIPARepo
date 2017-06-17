@@ -1,3 +1,9 @@
+
+6/17/2017
+
+ - 1.6r-9 Fixed follow status again
+
+
 6/12/2017
 
 - 1.8r-8 Fixed long press on grid profile posts
