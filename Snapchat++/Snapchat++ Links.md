@@ -2,7 +2,12 @@ Links:
 
 **Changelog**
  
+ 6/19/2017
+ 
+  - Updated Snapchat++ to App Version 10.10.2 and Tweak: 1.6r-155
+ 
  6/12/2017
+ 
   - Updated Snapchat++ to App Version 10.10.1
 
 
