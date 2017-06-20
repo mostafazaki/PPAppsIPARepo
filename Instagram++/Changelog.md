@@ -1,6 +1,7 @@
 
 6/19/2017
 
+ - **New** 1.8r-17 Fixes Hide Bio Info in Profile View not working
  - 1.8r-16 Fix follows button again
  - 1.8r-14 More work on follow status button
  - 1.8r-13 Fix for IG 10.26
