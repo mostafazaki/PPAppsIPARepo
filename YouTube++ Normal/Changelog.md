@@ -1,3 +1,11 @@
+
+**Changelog**
+
+6/19/2017
+
+ - 1.4r-40 Fixes for YouTube Version 12.23
+
+
 6/2/2017
 
 1. Updated To YouTube App Version: 12.21
