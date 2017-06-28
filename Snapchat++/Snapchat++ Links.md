@@ -1,7 +1,11 @@
-Links: [**Snapchat++ Links Here**](https://mega.nz/#F!AL4FED5a!f9cqi5kugE86-YICx3hnaw)
+Links: [**Snapchat++ Links Here**](https://mega.nz/#F!ChAG1YAZ!-QEZqORTFOAExGrTyHwspw)
 
 **Changelog**
  
+6/28/2017
+
+ - Updated Snapchat++ to App Version 10.11.5
+
 6/24/2017
 
  - 1.6r-126 Fix for Video Uploads
