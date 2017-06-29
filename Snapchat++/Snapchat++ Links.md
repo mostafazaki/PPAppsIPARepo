@@ -1,9 +1,11 @@
-Links: [**Snapchat++ Links Here**](https://mega.nz/#F!ChAG1YAZ!-QEZqORTFOAExGrTyHwspw)
+Links: [**Snapchat++ Links Here**](https://mega.nz/#F!AL4FED5a!f9cqi5kugE86-YICx3hnaw)
 
 **Changelog**
  
 6/28/2017
 
+ - 1.6r-129 Added third party warning message
+ - 1.6r-127 Added Instructions for location spoofing
  - Updated Snapchat++ to App Version 10.11.5
 
 6/24/2017
