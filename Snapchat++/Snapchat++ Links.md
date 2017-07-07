@@ -1,6 +1,13 @@
-Links: [**Snapchat++ Links Here**](https://mega.nz/#F!AL4FED5a!f9cqi5kugE86-YICx3hnaw)
+
+[**Snapchat++ Links Here**](https://mega.nz/#F!AL4FED5a!f9cqi5kugE86-YICx3hnaw)
 
 **Changelog**
+ 
+7/6/2017
+
+ - Fixes Marking snaps as read not working
+ - Fix video uploads. Fix image editing
+ -  1.6r-129 Fix crash on 10.12
  
 6/28/2017
 
