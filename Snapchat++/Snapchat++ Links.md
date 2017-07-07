@@ -3,6 +3,11 @@
 
 **Changelog**
  
+7/7/2017
+
+ - Updated Snapchat++ to Ap pVersion 10.12.1
+ 
+ 
 7/6/2017
 
  - Fixes Marking snaps as read not working
@@ -27,7 +32,3 @@
 6/19/2017
  
   - Updated Snapchat++ to App Version 10.10.2 and Tweak: 1.6r-115
- 
- 6/12/2017
- 
-  - Updated Snapchat++ to App Version 10.10.1
