@@ -1,3 +1,7 @@
+7/10/2017
+
+ - 1.8r-37 Added option to auto save videos as videos instead of always showing   gif/video option
+
 7/6/2017
 
  - 1.8r-33 Fix follow button
@@ -11,10 +15,3 @@
 			Fixed users picker crash
  - 1.8r-28 Fix spoof on IG 10.27
  - 1.8r-23 Fix crash on IG 10.27
-
-
-
-6/26/2017
-
- - 1.8r-22 Fixes Like/confirmation popups a second time when pressing like button and then pressing confirm after the first popup
- - 1.8r-20 Fixes When inserting text to a story, two buttons on the top get overlaid
