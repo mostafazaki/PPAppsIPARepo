@@ -1,4 +1,9 @@
 
+7/13/2017
+
+ - 1.2r-58 Fixes Tweet to remove ads. Also adds a button for Tweting to remove ads.
+
+
 6/30/2017
 
  - 1.2r-56 Fixed ++ buttons on the top left overlapping the Profile button on Twitter 7.x
