@@ -1,7 +1,11 @@
 
+7/13/2017
+
+ - 1.4r-45 Downloaded videos sort order (Ascending/Decending, Download Date)
+
 6/28/2017
 
- - **(NEW**)** 1.4r-43 Works on iOS 7
+ - 1.4r-43 Works on iOS 7
  - 1.4r-43 Fixes Crash on 12.24.10
 
 6/24/2017
