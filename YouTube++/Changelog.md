@@ -1,4 +1,9 @@
 
+7/17/2017
+
+ - 1.4r-53 Fix speed that videos are parsed at
+ - 1.4r-50 Enable PIP (Picture-In-Picture mode)
+
 7/13/2017
 
  - 1.4r-45 Downloaded videos sort order (Ascending/Decending, Download Date)
