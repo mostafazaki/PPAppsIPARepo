@@ -1,5 +1,14 @@
 This is where I will be posting the Updated UnlimApps ++ Apps as The updates come out.
 
+**New Repo Links**
+
+ - [Instagram++](https://github.com/JMccormick264/InstagramPP)
+ - [Twitter++](https://github.com/JMccormick264/TwitterPP)
+ - [WhatsApp++](https://github.com/JMccormick264/WhatsAppPP)
+ - [YouTube++](https://github.com/JMccormick264/YouTubePP)
+
+
+
 **ANY ISSUES??**
        Make a Issue report on this Github Repo or leave a comment on [This Reddit Post](https://goo.gl/GdFV7Q)
 
