@@ -1,4 +1,8 @@
 
+7/17/2017 (2)
+
+ - 1.4r-53 Fix downloads of playlist items
+
 7/17/2017
 
  - 1.4r-53 Fix speed that videos are parsed at
