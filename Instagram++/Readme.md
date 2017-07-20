@@ -1,5 +1,5 @@
 
-**[New Repo Link Here]([Instagram++](https://github.com/JMccormick264/InstagramPP))**
+**New [Instagram++ Repo Here](https://github.com/JMccormick264/InstagramPP)**
 
 **Changelog**
 
